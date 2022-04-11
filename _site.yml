@@ -1,0 +1,17 @@
+name: "ResearchDay2022"
+title: "Statistics Research Day 2022"
+description: |
+  Research Day 2022
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Abstracts"
+      href: abstracts.html
+    - text: "Registration"
+      href: registration.html
+output: distill::distill_article
+theme: theme.css

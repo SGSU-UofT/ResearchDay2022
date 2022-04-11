@@ -1,0 +1,11 @@
+---
+title: "Abstracts"
+description: |
+  Below are the abstracts for the talks, in alphabetical order by speaker's last name.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Abstracts here TBA

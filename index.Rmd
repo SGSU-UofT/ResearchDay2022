@@ -1,0 +1,33 @@
+---
+title: "Research Day 2022"
+description: |
+  Welcome to the website for the 2022 Statistics Student Research Day at the
+   University of Toronto, May 25 2022.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+### About
+
+The Statistics Student Research Day is an annual showcase and celebration of research excellence in the Department of Statistical Sciences at the University of Toronto. 
+This year the event will be held virtually using Zoom on May 25, 2022, 9am to 4:45pm EDT. 
+
+The schedule can be found [here](schedule.html). The event has three thematic blocks, corresponding to the main research areas in our department: Theoretical Statistics, Applied Statistics, and Math Finance and Actuarial Science. Each block will begin with an invited talk, followed by several talks by our own graduate students. The abstracts can be found [here](abstracts.html).
+
+### Event organizing committee
+
+Graduate student members: Emma Kroell (lead organizer), Blair Bilodeau, Michael Chong, 
+Kathleen Miao, Marija Pejcinovska, Sabrina Sixta
+
+Faculty Members: Rohan Alexander, Jessica Gronsbell, Vianey Leos Barajas
+
+<center>
+<div class "layout-chunk">
+<img align="center" src="dept_logo.png" width="500" alt="Logo of the Department of Statistical Sciences at the University of Toronto">
+</div>
+</center>
+
+
