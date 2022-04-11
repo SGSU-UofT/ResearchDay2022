@@ -8,15 +8,10 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### 9:05: Welcome
+**9:05: Welcome**
 
 
-<b>
-<h1 style="font-size:2.5vw">
-<span style="color:#72C094">Block 1: Applied Statistics</span>
-</h1>
-</b>
-
+## Block 1: Applied Statistics</span>
 
 -------------------------------------------------------------
  Time             Title                                   Speaker
@@ -35,15 +30,9 @@ knitr::opts_chunk$set(echo = FALSE)
 -------------------------------------------------------------
 
 
-### 20 minute break 
+**20 minute break** 
 
-<b>
-<h1 style="font-size:2.5vw">
-<h2 style="line-height:1.3">
-<span style="color:#72C094">Block 2: Math Finance and Actuarial Science</span>
-</h2>
-</h1>
-</b>
+## Block 2: Math Finance and Actuarial Science
 
 -------------------------------------------------------------
  Time             Title                                      Speaker
@@ -63,13 +52,9 @@ knitr::opts_chunk$set(echo = FALSE)
 -------------------------------------------------------------
 
 
-### LUNCH: 75 minutes
+**LUNCH: 75 minutes**
 
-<b>
-<h1 style="font-size:2.5vw">
-<span style="color:#72C094">Block 3: Theoretical Statistics</span>
-</h1>
-</b>
+## Block 3: Theoretical Statistics
 
 -------------------------------------------------------------
  Time             Title                                      Speaker
