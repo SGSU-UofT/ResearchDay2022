@@ -26,11 +26,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 9:50 to 10:00      Q & A with Niamh                       Dr. Niamh Cahill
 
-10:00 to 10:15     Title here                             Student A
+10:00 to 10:15     Title TBA                              TBA
 
-10:15 to 10:30     Title here                             Student B
+10:15 to 10:30     Title TBA                              TBA
 
-10:30 to 10:40     Questions with A & B                   Student A and Student B
+10:30 to 10:40     Questions with TBA                     TBA and TBA
 
 -------------------------------------------------------------
 
@@ -46,18 +46,19 @@ knitr::opts_chunk$set(echo = FALSE)
 </b>
 
 -------------------------------------------------------------
- Time             Title                                   Speaker
--------           ----------------------------------      -----------------
+ Time             Title                                      Speaker
+-------           ----------------------------------         -----------------
 11:00 to 11:40    Invited talk: Multiscale modeling 
-                  for option pricing and optimal execution   Dr. Yuri Saporito
+                  for option pricing and optimal execution    [Dr. Yuri Saporito](abstracts.html#yuri-saporito)
 
-11:40 to 11:50       Q & A with Yuri                        Dr. Yuri Saporito
+11:40 to 11:50    Q & A with Yuri                             Dr. Yuri Saporito
 
-11:50 to 12:05       Title here                             Student C
+11:50 to 12:05    Modelling Heterogeneous Risks with Random 
+                  Effects in the Mixture-of-Experts Model     [Spark Tseung](abstracts.html#spark-tseung)
 
-12:05 to 12:20       Title here                             Student D
+12:05 to 12:20       Title TBA                                 TBA
 
-12:20 to 12:30       Questions with C & D                   Student C and Student D
+12:20 to 12:30    Questions with Spark & TBA                  Spark Tseung and TBA
 
 -------------------------------------------------------------
 
@@ -71,32 +72,33 @@ knitr::opts_chunk$set(echo = FALSE)
 </b>
 
 -------------------------------------------------------------
- Time             Title                                   Speaker
--------           ----------------------------------      -----------------
+ Time             Title                                      Speaker
+-------           ----------------------------------        -----------------
 1:45 to 2:25      Invited talk: Benign Overfitting without
-                   Linearity                              Dr. Spencer Frei
+                   Linearity                                [Dr. Spencer Frei](abstracts.html#spencer-frei)
 
-2:25 to 2:35       Q & A with Spencer                     Dr. Spencer Frei
+2:25 to 2:35       Q & A with Spencer                       Dr. Spencer Frei
 
-2:35 to 2:50       Title here                              Student E
+2:35 to 2:50      Fighting Noise with Noise: Causal 
+                  Inference with Many Candidate Instruments  [Cindy Zhang](abstracts.html#cindy-zhang)
 
-2:50 to 3:05      Title here                              Student F
+2:50 to 3:05      Title TBA                                  TBA
 
-3:05 to 3:15      Questions with E & F                    Student E and Student F
+3:05 to 3:15      Questions with Cindy and TBA              Cindy Zhang and TBA
 
 3:15 to 3:25      BREAK                                               
 
-3:25 to 3:40      Title                                    Student G
+3:25 to 3:40      Convergence rate bounds for iterative 
+                  random functions using one-shot coupling   [Sabrina Sixta](abstracts.html#sabrina-sixta)
 
-3:40 to 3:55      Title                                    Student H
+3:40 to 3:55      Title TBA                                   TBA
 
-3:55 to 4:05      Questions with G & H                     Student G and Student H 
+3:55 to 4:05      Questions with Sabrina & TBA                Sabrina Sixta and TBA
 
-4:05 to 4:20      Title                                    Student I
+4:05 to 4:20      Title TBA                                   TBA
 
-4:20 to 4:35      Title                                    Student J
+4:20 to 4:35      The Promises of Parallel Outcomes           [Ying Zhou](abstracts.html#ying-zhou)
 
-4:35 to 4:45:     Questions with I & J                     Student I and Student J
+4:35 to 4:45:     Questions with TBA & Ying                   TBA and Ying Zhou
 
 -------------------------------------------------------------
-
