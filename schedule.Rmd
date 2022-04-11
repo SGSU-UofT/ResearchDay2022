@@ -14,18 +14,20 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Block 1: Applied Statistics</span>
 
 -------------------------------------------------------------
- Time             Title                                   Speaker
--------           ----------------------------------      -----------------
+ Time             Title                                      Speaker
+-------           ----------------------------------         -----------------
 9:10 to 9:50      Invited talk:  
-                  Title TBA                               Niamh Cahill
+                  Title TBA                                  Niamh Cahill
 
-9:50 to 10:00      Q & A with Niamh                       Niamh Cahill
+9:50 to 10:00     Q & A with Niamh                           Niamh Cahill
 
-10:00 to 10:15     Title TBA                              TBA
+10:00 to 10:15    Effect of the infield shift: Causal
+                  inference in baseball                      Sonia Markes
+                  [(abstract)](abstracts.html#sonia-markes)
 
-10:15 to 10:30     Title TBA                              TBA
+10:15 to 10:30     Title TBA                                 TBA
 
-10:30 to 10:40     Questions with TBA                     TBA and TBA
+10:30 to 10:40     Questions with TBA                        Sonia Markes and TBA
 
 -------------------------------------------------------------
 
@@ -60,7 +62,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -------------------------------------------------------------
  Time             Title                                      Speaker
--------           ----------------------------------        -----------------
+-------           ----------------------------------         -----------------
 1:45 to 2:25      Invited talk: Benign Overfitting without
                   Linearity                                  Spencer Frei
                   [(abstract)](abstracts.html#spencer-frei)
@@ -83,15 +85,17 @@ knitr::opts_chunk$set(echo = FALSE)
                   random functions using one-shot coupling    Sabrina Sixta
                   [(abstract)](abstracts.html#sabrina-sixta)
 
-3:40 to 3:55      Title TBA                                   TBA
+3:40 to 3:55      Title TBA                                    TBA
 
-3:55 to 4:05      Questions with Sabrina & TBA                Sabrina Sixta and TBA
+3:55 to 4:05      Questions with Sabrina & TBA                 Sabrina Sixta and TBA
 
-4:05 to 4:20      Title TBA                                   TBA
+4:05 to 4:20      Adaptively Exploiting d-Separators with 
+                  Causal Bandits                               Blair Bilodeau
+                  [(abstract)](abstracts.html#blair-bilodeau)       
 
 4:20 to 4:35      The Promises of Parallel Outcomes           Ying Zhou
                   [(abstract)](abstracts.html#ying-zhou)
 
-4:35 to 4:45:     Questions with TBA & Ying                   TBA and Ying Zhou
+4:35 to 4:45:     Questions with Blair & Ying                 Blair Bilodeau and Ying Zhou
 
 -------------------------------------------------------------
