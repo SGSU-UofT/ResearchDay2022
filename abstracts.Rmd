@@ -28,6 +28,11 @@ One-shot coupling is a method of bounding the convergence rate between two copie
 Preprint: [https://arxiv.org/abs/2112.03982](https://arxiv.org/abs/2112.03982)
 
 
+### Yanbo Tang
+**Modified Likelihood Root in High Dimensions** \
+We examine a higher order approximation to the significance function with increasing numbers of nuisance parameters, based on the normal approximation to an adjusted loglikelihood root. We show that the rate of the correction for nuisance parameters is larger than the correction for non-normality, when the parameter dimension $p$ is $n$ to the power of $\alpha$, for $\alpha < 1/2$. We specialize the results to linear exponential families and location–scale families and illustrate these with simulations.
+
+
 ### Spark Tseung
 **Modelling Heterogeneous Risks with Random Effects in the Mixture-of-Experts Model** \
 In statistical applications, mixed (or random effects) models are often used for modelling unobserved effects or correlation across repeated measurements. In the class of models with random effects, linear mixed models (LMM) and generalized linear mixed models (GLMM) are well studied and widely applied in many modelling problems. However, several restrictive assumptions of these models have rendered them unsuitable for insurance data, which typically exhibit multimodality and rather different characteristics in the body and the tail of the distribution. In this talk, we present an extension to a class of the mixture-of-experts model proposed in Fung et al. (2019) by incorporating random effects. This non-trivial extension preserves the desirable property of denseness, i.e. the flexibility to capture any distributional shape, dependence and regression structure, while the intuitive model structure allows for mathematical tractability and interpretability. Besides, the addition of random effects accounts for unobserved effects such as heterogeneous risks without over-complicating the model with too many parameters. Estimation of model parameters and realizations of random effects can be accomplished by a combination of the Expected-Conditional-Maximization (ECM) algorithm and the Best Linear Unbiased Predictor (BLUP) procedure, adapted from Ng and McLachlan (2007). Finally, we present numerical simulations and case studies on a real insurance dataset.

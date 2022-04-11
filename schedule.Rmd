@@ -71,9 +71,11 @@ knitr::opts_chunk$set(echo = FALSE)
                   Inference with Many Candidate Instruments   Cindy Zhang
                   [(abstract)](abstracts.html#cindy-zhang)
 
-2:50 to 3:05      Title TBA                                  TBA
+2:50 to 3:05      Modified Likelihood Root in High
+                  Dimensions                                 Yanbo Tang
+                  [(abstract)](abstracts.html#yanbo-tang)                               
 
-3:05 to 3:15      Questions with Cindy and TBA              Cindy Zhang and TBA
+3:05 to 3:15      Questions with Cindy and TBA               Cindy Zhang and Yanbo Tang
 
 3:15 to 3:25      BREAK                                               
 

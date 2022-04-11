@@ -2414,6 +2414,9 @@ Fast mean reversion is a crucial modeling tool in many areas of science. In Quan
 <p><strong>Convergence rate bounds for iterative random functions using one-shot coupling</strong><br />
 One-shot coupling is a method of bounding the convergence rate between two copies of a Markov chain in total variation distance. The method is divided into two parts: the contraction phase, when the chains converge in expected distance and the coalescing phase, which occurs at the last iteration, when there is an attempt to couple. The method closely resembles the common random number technique used for simulation. We present a general theorem for finding the upper bound on the Markov chain convergence rate that uses the one-shot coupling method. We then apply the general theorem to two families of Markov chains: the random functional autoregressive process and the randomly scaled iterated random function. Multiple examples will be presented to show how the theorem can be used on various models including ones in high dimensions.<br />
 Preprint: <a href="https://arxiv.org/abs/2112.03982">https://arxiv.org/abs/2112.03982</a></p>
+<h3 id="yanbo-tang">Yanbo Tang</h3>
+<p><strong>Modified Likelihood Root in High Dimensions</strong><br />
+We examine a higher order approximation to the significance function with increasing numbers of nuisance parameters, based on the normal approximation to an adjusted loglikelihood root. We show that the rate of the correction for nuisance parameters is larger than the correction for non-normality, when the parameter dimension <span class="math inline">\(p\)</span> is <span class="math inline">\(n\)</span> to the power of <span class="math inline">\(\alpha\)</span>, for <span class="math inline">\(\alpha &lt; 1/2\)</span>. We specialize the results to linear exponential families and location–scale families and illustrate these with simulations.</p>
 <h3 id="spark-tseung">Spark Tseung</h3>
 <p><strong>Modelling Heterogeneous Risks with Random Effects in the Mixture-of-Experts Model</strong><br />
 In statistical applications, mixed (or random effects) models are often used for modelling unobserved effects or correlation across repeated measurements. In the class of models with random effects, linear mixed models (LMM) and generalized linear mixed models (GLMM) are well studied and widely applied in many modelling problems. However, several restrictive assumptions of these models have rendered them unsuitable for insurance data, which typically exhibit multimodality and rather different characteristics in the body and the tail of the distribution. In this talk, we present an extension to a class of the mixture-of-experts model proposed in Fung et al. (2019) by incorporating random effects. This non-trivial extension preserves the desirable property of denseness, i.e. the flexibility to capture any distributional shape, dependence and regression structure, while the intuitive model structure allows for mathematical tractability and interpretability. Besides, the addition of random effects accounts for unobserved effects such as heterogeneous risks without over-complicating the model with too many parameters. Estimation of model parameters and realizations of random effects can be accomplished by a combination of the Expected-Conditional-Maximization (ECM) algorithm and the Best Linear Unbiased Predictor (BLUP) procedure, adapted from Ng and McLachlan (2007). Finally, we present numerical simulations and case studies on a real insurance dataset.</p>
@@ -2432,6 +2435,15 @@ Preprint: <a href="https://arxiv.org/pdf/2012.05849.pdf">https://arxiv.org/pdf/2
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
