@@ -1,8 +1,5 @@
 ---
-title: "Research Day 2022"
-description: |
-  Welcome to the website for the 2022 Statistics Student Research Day at the
-   University of Toronto, May 25 2022.
+title: "University of Toronto Statistics Student Research Day 2022"
 site: distill::distill_website
 ---
 

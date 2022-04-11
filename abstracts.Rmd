@@ -8,6 +8,8 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Invited Talks
+
 ### Spencer Frei
 **Benign Overfitting without Linearity** \
 Deep learning has revealed a number of surprising statistical and computational phenomena. We will focus on one such surprise: the possibility of ‘benign’ overfitting. Experiments with neural networks trained by gradient descent have revealed that they are capable of simultaneously (1) overfitting to datasets that have substantial amounts of random label noise and (2) generalizing well to unseen data. This behavior appears inconsistent with the intuition from classical statistics that the bias-variance tradeoff should prevent a model that overfits noisy training data from performing well on test data. \
@@ -16,6 +18,9 @@ In this talk we investigate this phenomenon in two-layer neural networks trained
 ### Yuri Saporito
 **Multiscale modeling for option pricing and optimal execution**\
 Fast mean reversion is a crucial modeling tool in many areas of science. In Quantitative Finance, it was firstly introduced to model volatility and its consequence to option pricing was studied by Jean-Pierre Fouque and his co-authors. In this talk, I will review this application and present a brand-new use to optimal execution. This last part is a joint work with JP Fouque and Sebastian Jaimungal.
+
+
+## Student Talks
 
 ### Sabrina Sixta 
 **Convergence rate bounds for iterative random functions using one-shot coupling** \
