@@ -27,9 +27,9 @@ knitr::opts_chunk$set(echo = FALSE)
                   inference in baseball                      Sonia Markes
                   [(abstract)](abstracts.html#sonia-markes)
 
-10:15 to 10:30     Title TBA                                 TBA
+10:15 to 10:30     Title TBA                                 Michael Chong
 
-10:30 to 10:40     Questions with TBA                        Sonia Markes and TBA
+10:30 to 10:40     Questions with Sonia and Michael          Sonia Markes and Michael Chong
 
 -------------------------------------------------------------
 
@@ -39,21 +39,22 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Block 2: Math Finance and Actuarial Science
 
 -------------------------------------------------------------
- Time             Title                                      Speaker
--------           ----------------------------------         -----------------
+ Time             Title                                       Speaker
+-------           ----------------------------------          -----------------
 11:00 to 11:40    Invited talk: Multiscale modeling 
-                  for option pricing and optimal execution   Yuri Saporito
+                  for option pricing and optimal execution     Yuri Saporito
                   [(abstract)](abstracts.html#yuri-saporito) 
 
-11:40 to 11:50    Q & A with Yuri                             Yuri Saporito
+11:40 to 11:50    Q & A with Yuri                              Yuri Saporito
 
 11:50 to 12:05    Modelling Heterogeneous Risks with Random 
-                  Effects in the Mixture-of-Experts Model     Spark Tseung
+                  Effects in the Mixture-of-Experts Model      Spark Tseung
                   [(abstract)](abstracts.html#spark-tseung)     
 
-12:05 to 12:20       Title TBA                                 TBA
+12:05 to 12:20    A Mean Field Game of Sequential Testing      Steven Campbell
+                  [(abstract)](abstracts.html#steven-campbell)
 
-12:20 to 12:30    Questions with Spark & TBA                  Spark Tseung and TBA
+12:20 to 12:30    Q & A with Spark and Steven                  Spark Tseung and Steven Campbell
 
 -------------------------------------------------------------
 
@@ -63,41 +64,41 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Block 3: Theoretical Statistics
 
 -------------------------------------------------------------
- Time             Title                                      Speaker
--------           ----------------------------------         -----------------
+ Time             Title                                        Speaker
+-------           ----------------------------------           -----------------
 1:45 to 2:25      Invited talk: Benign Overfitting without
-                  Linearity                                  Spencer Frei
+                  Linearity                                    Spencer Frei
                   [(abstract)](abstracts.html#spencer-frei)
 
-2:25 to 2:35       Q & A with Spencer                        Spencer Frei
+2:25 to 2:35       Q & A with Spencer                          Spencer Frei
 
 2:35 to 2:50      Fighting Noise with Noise: Causal 
-                  Inference with Many Candidate Instruments   Cindy Zhang
+                  Inference with Many Candidate Instruments    Cindy Zhang
                   [(abstract)](abstracts.html#cindy-zhang)
 
 2:50 to 3:05      Modified Likelihood Root in High
-                  Dimensions                                 Yanbo Tang
+                  Dimensions                                   Yanbo Tang
                   [(abstract)](abstracts.html#yanbo-tang)                               
 
-3:05 to 3:15      Questions with Cindy and TBA               Cindy Zhang and Yanbo Tang
+3:05 to 3:15      Q & A with Cindy and Yanbo                   Cindy Zhang and Yanbo Tang
 
-3:15 to 3:25      BREAK                                               
+3:15 to 3:25      **Break**                                              
 
 3:25 to 3:40      Convergence rate bounds for iterative 
-                  random functions using one-shot coupling    Sabrina Sixta
+                  random functions using one-shot coupling     Sabrina Sixta
                   [(abstract)](abstracts.html#sabrina-sixta)
 
 3:40 to 3:55      Title TBA                                    TBA
 
-3:55 to 4:05      Questions with Sabrina & TBA                 Sabrina Sixta and TBA
+3:55 to 4:05      Q & A with Sabrina and TBA                   Sabrina Sixta and TBA
 
 4:05 to 4:20      Adaptively Exploiting d-Separators with 
                   Causal Bandits                               Blair Bilodeau
                   [(abstract)](abstracts.html#blair-bilodeau)       
 
-4:20 to 4:35      The Promises of Parallel Outcomes           Ying Zhou
+4:20 to 4:35      The Promises of Parallel Outcomes            Ying Zhou
                   [(abstract)](abstracts.html#ying-zhou)
 
-4:35 to 4:45:     Questions with Blair & Ying                 Blair Bilodeau and Ying Zhou
+4:35 to 4:45:     Q & A with Blair and Ying                    Blair Bilodeau and Ying Zhou
 
 -------------------------------------------------------------
