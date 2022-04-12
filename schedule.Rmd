@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 10:15 to 10:30     Title TBA                                 Michael Chong
 
-10:30 to 10:40     Questions with Sonia and Michael          Sonia Markes and Michael Chong
+10:30 to 10:40     Q & A with Sonia and Michael              Sonia Markes and Michael Chong
 
 -------------------------------------------------------------
 
@@ -88,9 +88,11 @@ knitr::opts_chunk$set(echo = FALSE)
                   random functions using one-shot coupling     Sabrina Sixta
                   [(abstract)](abstracts.html#sabrina-sixta)
 
-3:40 to 3:55      Title TBA                                    TBA
+3:40 to 3:55      Analysis of Langevin Monte Carlo from 
+                  Poincaré to Log-Sobolev                      Mufan Li
+                  [(abstract)](abstracts.html#mufan-li)
 
-3:55 to 4:05      Q & A with Sabrina and TBA                   Sabrina Sixta and TBA
+3:55 to 4:05      Q & A with Sabrina and Mufan                 Sabrina Sixta and Mufan Li
 
 4:05 to 4:20      Adaptively Exploiting d-Separators with 
                   Causal Bandits                               Blair Bilodeau

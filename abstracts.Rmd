@@ -36,6 +36,10 @@ Preprint: [https://arxiv.org/abs/2202.05100](https://arxiv.org/abs/2202.05100)
 **A Mean Field Game of Sequential Testing** \
 This talk will introduce a mean field game for a family of filtering problems related to the classic sequential testing of a Brownian motion's drift. It is based on recent joint work with Prof. Yuchong Zhang which, to the best of our knowledge, presents the first treatment of mean field filtering games with stopping. We show that the game is well-posed, characterize the solution, and establish the existence of a mean field equilibrium under certain assumptions. Illustrations from numerical studies for several examples of interest will also be provided.
 
+### Mufan Li
+**Analysis of Langevin Monte Carlo from Poincaré to Log-Sobolev** \
+Classically, the continuous-time Langevin diffusion converges exponentially fast to its stationary distribution π under the sole assumption that π satisfies a Poincaré inequality. Using this fact to provide guarantees for the discrete-time Langevin Monte Carlo (LMC) algorithm, however, is considerably more challenging due to the need for working with chi-squared or Rényi divergences, and prior works have largely focused on strongly log-concave targets. In this work, we provide the first convergence guarantees for LMC assuming that π satisfies either a Latała--Oleszkiewicz or modified log-Sobolev inequality, which interpolates between the Poincaré and log-Sobolev settings. Unlike prior works, our results allow for weak smoothness and do not require convexity or dissipativity conditions.
+
 
 ### Sonia Markes
 **Effect of the infield shift: Causal inference in baseball** \
