@@ -16,8 +16,10 @@ knitr::opts_chunk$set(echo = FALSE)
 -------------------------------------------------------------
  Time             Title                                      Speaker
 -------           ----------------------------------         -----------------
-9:10 to 9:50      Invited talk:  
-                  Title TBA                                  Niamh Cahill
+9:10 to 9:50      Invited talk: A Bayesian Hierarchical 
+                  Time Series Model for Reconstructing       Niamh Cahill
+                  Hydroclimate from Multiple Proxies
+                  [(abstract)](abstracts.html#niamh-cahill)
 
 9:50 to 10:00     Q & A with Niamh                           Niamh Cahill
 

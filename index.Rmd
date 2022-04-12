@@ -1,5 +1,5 @@
 ---
-title: "University of Toronto Statistics Student Research Day 2022"
+title: "University of Toronto Statistics Graduate Student Research Day 2022"
 site: distill::distill_website
 ---
 
@@ -9,8 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ### About
 
-The Statistics Student Research Day is an annual showcase and celebration of research excellence in the Department of Statistical Sciences at the University of Toronto. 
-This year the event will be held virtually using Zoom on May 25, 2022, 9am to 4:45pm EDT. 
+The Graduate Student Research Day in the Department of Statistical Sciences at the University of Toronto is an annual showcase and celebration of research excellence in the Department of Statistical Sciences at the University of Toronto. This year the event will be held virtually using Zoom on May 25, 2022, 9am to 4:45pm EDT, with an option for local participants to watch the event together on-campus (health restrictions permitting).
 
 The schedule can be found [here](schedule.html). The event has three thematic blocks, corresponding to the main research areas in our department: Theoretical Statistics, Applied Statistics, and Math Finance and Actuarial Science. Each block will begin with an invited talk, followed by several talks by our own graduate students. The abstracts can be found [here](abstracts.html).
 
