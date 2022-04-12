@@ -6,7 +6,7 @@ title: "Registration"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Please register here (coming sooon!) using Eventbrite.
+Please register here (coming soon!) using Eventbrite.
 
 
 
