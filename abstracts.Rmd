@@ -8,6 +8,12 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+```{css, echo = FALSE}
+d-article p {
+  text-align: justify;
+}
+```
+
 ## Invited Talks
 
 ### Niamh Cahill
