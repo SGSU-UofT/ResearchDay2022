@@ -6,7 +6,7 @@ title: "Registration"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Please register here (coming soon!) using Eventbrite.
+Please register [here](https://www.eventbrite.com/e/university-of-toronto-statistics-graduate-student-research-day-2022-tickets-321395802497?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb) using Eventbrite.
 
 
 

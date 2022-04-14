@@ -101,6 +101,6 @@ knitr::opts_chunk$set(echo = FALSE)
 4:20 to 4:35      The Promises of Parallel Outcomes            Ying Zhou
                   [(abstract)](abstracts.html#ying-zhou)
 
-4:35 to 4:45:     Q & A with Blair and Ying                    Blair Bilodeau and Ying Zhou
+4:35 to 4:45     Q & A with Blair and Ying                    Blair Bilodeau and Ying Zhou
 
 -------------------------------------------------------------
