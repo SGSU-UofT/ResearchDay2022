@@ -15,10 +15,12 @@ The schedule can be found [here](schedule.html). The event has three thematic bl
 
 ### Event organizing committee
 
-Graduate student members: Emma Kroell (lead organizer), Blair Bilodeau, Michael Chong, 
+Emma Kroell (lead organizer), Blair Bilodeau, Michael Chong, 
 Kathleen Miao, Marija Pejcinovska, Sabrina Sixta
 
-Faculty members: Rohan Alexander, Jessica Gronsbell, Vianey Leos Barajas
+### Acknowledgments
+
+The organizing committee thanks Rohan Alexander, Jessica Gronsbell, and Vianey Leos Barajas for their advice and guidance.
 
 <center>
 <div class "layout-chunk">
