@@ -11,27 +11,31 @@ knitr::opts_chunk$set(echo = FALSE)
 **9:05: Welcome**
 
 
-## Block 1: Applied Statistics</span>
+## Block 1: Statistics</span>
 
 -------------------------------------------------------------
- Time             Title                                      Speaker
--------           ----------------------------------         -----------------
+ Time             Title                                       Speaker
+-------           ----------------------------------          -----------------
 9:10 to 9:50      Invited talk: A Bayesian Hierarchical 
-                  Time Series Model for Reconstructing       Niamh Cahill
+                  Time Series Model for Reconstructing        Niamh Cahill
                   Hydroclimate from Multiple Proxies
                   [(abstract)](abstracts.html#niamh-cahill)
 
-9:50 to 10:00     Q & A with Niamh                           Niamh Cahill
+9:50 to 10:00     Q & A with Niamh                            Niamh Cahill
 
-10:00 to 10:15    Effect of the infield shift: Causal
-                  inference in baseball                      Sonia Markes
-                  [(abstract)](abstracts.html#sonia-markes)
+10:00 to 10:15    Adaptively Exploiting d-Separators with 
+                  Causal Bandits                               Blair Bilodeau
+                  [(abstract)](abstracts.html#blair-bilodeau)       
 
 10:15 to 10:30    Estimating causes of maternal death in
-                  data-sparse contexts                       Michael Chong
+                  data-sparse contexts                        Michael Chong
                   [(abstract)](abstracts.html#michael-chong)  
 
-10:30 to 10:40     Q & A with Sonia and Michael              Sonia Markes and Michael Chong
+10:30 to 10:40     Q & A with Blair and Michael               Blair Bilodeau and Michael Chong
+
+Cancelled due     ~~Effect of the infield shift: Causal~~
+to COVID-19        ~~inference in baseball~~                  ~~Sonia Markes~~ 
+                  [(abstract)](abstracts.html#sonia-markes) 
 
 -------------------------------------------------------------
 
@@ -96,13 +100,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 3:55 to 4:05      Q & A with Sabrina and Mufan                 Sabrina Sixta and Mufan Li
 
-4:05 to 4:20      Adaptively Exploiting d-Separators with 
-                  Causal Bandits                               Blair Bilodeau
-                  [(abstract)](abstracts.html#blair-bilodeau)       
-
-4:20 to 4:35      The Promises of Parallel Outcomes            Ying Zhou
+4:05 to 4:20       The Promises of Parallel Outcomes            Ying Zhou
                   [(abstract)](abstracts.html#ying-zhou)
 
-4:35 to 4:45      Q & A with Blair and Ying                    Blair Bilodeau and Ying Zhou
+4:20 to 4:25      Q & A with Ying                               Ying Zhou
 
 -------------------------------------------------------------
+
