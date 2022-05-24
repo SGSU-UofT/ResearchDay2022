@@ -34,8 +34,8 @@ knitr::opts_chunk$set(echo = FALSE)
 10:30 to 10:40     Q & A with Blair and Michael               Blair Bilodeau and Michael Chong
 
 Cancelled due     ~~Effect of the infield shift: Causal~~
-to COVID-19        ~~inference in baseball~~                  ~~Sonia Markes~~ 
-                  [(abstract)](abstracts.html#sonia-markes) 
+to unforeseen      ~~inference in baseball~~                  ~~Sonia Markes~~ 
+circumstances       [(abstract)](abstracts.html#sonia-markes) 
 
 -------------------------------------------------------------
 
